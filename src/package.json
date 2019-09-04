@@ -1,0 +1,20 @@
+{
+  "name": "react-electron-boilerplate-client",
+  "version": "1.0.0",
+  "description": "The client for the react electron boilerplate",
+  "main": "main.js",
+  "keywords": [
+    "reactjs",
+    "react",
+    "webpack",
+    "electron",
+    "boilerplate"
+  ],
+  "author": "Chris Short",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
